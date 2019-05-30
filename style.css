@@ -1,0 +1,106 @@
+/* Write all your CSS here */
+/* Please indent properly */
+/* Please use only lower-case letters */
+/* Your webpage should be 100% responsive!!! */
+body {
+    margin:0px;
+}
+#slack{
+    background-color:purple;
+    height:auto;
+    width: 200px;
+}
+#second-sec{
+    background-color: blanchedalmond;
+    
+}
+#main{
+    display: flex;
+}
+ul li{
+    margin:0px;
+    list-style-type: none;
+    font-size:20px;
+    display: flex;
+    align-items: center;
+}
+.tk{
+
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h2 {
+    display:flex;
+    justify-content: space-around;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+/* .resource{
+    display:flex;
+    justify-content: center; */
+
+ button{
+        padding:10px 30px;
+        background-color:green;
+        border:none;
+        text-align: center;
+     }
+p{
+    display: flex;
+    justify-content: center;
+}
+.btn>button{
+    display: flex;
+    margin: 0 auto;
+
+}
+#top{
+
+    display:flex;
+    justify-content: space-between;
+}
+.top-right{
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    padding:20px;
+    
+    
+}
+.top-right input{
+    border-radius: 5px;
+    border:none;
+    padding:4px;
+}
+.rigth{
+    display: flex;
+    flex-direction: column;
+}
+
+fieldset legend
+{
+text-align: center;
+
+}
+#hide{
+    border-bottom:0px;
+ border-right: 0px;
+ border-left:0px;
+
+}
+#slack input{
+    border-radius:8px;
+    padding:5px;
+    border:none;
+}
+.name{
+text-align: center;
+margin:0px;
+padding: 0px;
+}
+#four-sec .fas fa-heart{
+    color: red;
+}
